@@ -8,7 +8,7 @@ Sou Rute, tenho 24 anos e moro em Recife. Recentemente, entrei na área da tecno
 - 🚀 **JavaScript**  
 - ⚛️ **React**  
 - 🐍 **Python**
-- - 🛢️ **MySQL**
+-  🛢️ **MySQL**
   
 
 Cada experiência tem sido incrível, e estou muito animada para continuar me desenvolvendo nesse campo dinâmico e cheio de oportunidades!  
