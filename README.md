@@ -31,6 +31,3 @@ Cada experiência tem sido incrível, e estou muito animada para continuar me de
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 
-### GitHub Stats
-
-![RuteCajueiro's Stats](https://github-readme-stats.vercel.app/api?username=RuteCajueiro&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
