@@ -16,7 +16,7 @@ Cada experiência tem sido incrível, e estou muito animada para continuar me de
 
 ### Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge)](https://www.linkedin.com/in/rute-cajueiro-4ab706203/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/rute-cajueiro-4ab706203/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/rute-cajueiro-4ab706203/)
 
 ### Habilidades
