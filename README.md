@@ -5,10 +5,18 @@
 Sou Rute, tenho 24 anos e moro em Recife. Recentemente, entrei na área da tecnologia e estou amando aprender! 💙  
 
 📚 **O que estou estudando atualmente?**  
-- 🚀 **JavaScript**  
-- ⚛️ **React**  
-- 🐍 **Python**
--  🛢️ **MySQL**
+
+ 🚀 JavaScript
+
+⚛️ React
+
+🐍 Python
+
+🛢️ MySQL
+
+🗄️ Banco de Dados
+
+🌐 Node.js
   
 
 Cada experiência tem sido incrível, e estou muito animada para continuar me desenvolvendo nesse campo dinâmico e cheio de oportunidades!  
